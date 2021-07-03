@@ -27,7 +27,7 @@ En tant que visiteur du site je veux pouvoir :
 
 ## Instructions d'installation
 
-    npx create-react-app airbnb-clone
+    npx create-react-app foody-react-app
 
 - Installer axios pour faire de la requête API
 
