@@ -28,7 +28,6 @@ En tant que visiteur du site je veux pouvoir :
 ## Instructions d'installation
 
     npx create-react-app foody-react-app
-    npm start
 
 - Installer axios pour faire de la requête API
 
